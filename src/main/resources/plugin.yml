@@ -1,0 +1,14 @@
+name: JaycobPickaxe
+version: '${project.version}'
+main: me.manu.jaycobpickaxe.JaycobPickaxe
+api-version: '1.16'
+softdepend:
+  - PlaceholderAPI
+commands:
+  jp:
+    description: PON
+    usage: /<command> <subcommand> [args...]
+    aliases:
+      - jakepickaxe
+      - goldenpickaxe
+      - spawnerpicaxe
